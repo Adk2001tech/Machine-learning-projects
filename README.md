@@ -24,4 +24,4 @@ The benefits of practicing this problem by using Machine Learning techniques are
 
 
 ## Results
-* Scored 88.89% in hackerearth challange where top performer scored 91.1%.
+* Scored 88.84% in hackerearth challange where top performer scored 91.1%.
